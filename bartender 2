@@ -1,1 +1,13 @@
-
+skill 1: Blood Liquor: on mode: to friends: ●●●● can only used on self: suffer 5 DMG,stress +5 bleed 3pt/rds for 3rd (85%base)
+cocktail shaker: allies: buff target: +20 DMG +3 SPD +3 CRT
+on mode: to adversary: melee ○○●●X●●○○ DMG modified: -50%，110 ACC,CRT modified: +12% ,bleed 3pt/rds for 3rd (140%base)
+cocktail shaker: enemies: debuff target: +25% DMG received -20ACC
+skill 2: Sour Wine: on mode: to friends: ●●●○ clean stun ,stress +5
+cocktail shaker: allies: clean stun stress +8,buff target: +20% stun resistant
+on mode: to adversary: range ○●●○X●●●○ DMG modified: -90%，105 ACC,CRT modified:+8% debuff target: -20% PROT,-15 DOGE,blight 3pt/rds for 2rd (140%base)
+cocktail shaker: enemies: blight 7pt/rds for 3rd (140%base)
+skill 3: medicinal liquor: on mode: to friends: ●●●○: heal 3pt/rds for 3 rds
+cocktail shaker: allies: heal 5-7
+on mode: to adversary: ○●●●X●●●○ debuff target: -25%DMG -4SPD (140%base)
+cocktail shaker: allies: stress -7
+skill 4:
