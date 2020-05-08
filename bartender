@@ -1,0 +1,12 @@
+class name: bartender
+skill:(rank 5)
+skill 1: on bartending mode: Fresh Blood:melee ○○●●X●●○○ DMG modified: -50% 110 ACC,CRT modified: +12%,bleed 3pt/rds for 3rd (140%base),Bloody Mary: +1 uses per battles(max 2)
+skill 2: Wine Barbecue: range ○○●●X●-●-●○ DMG modified: -75%,CRT modified: -5%,95 ACC,+6 torch light,shuffle (140% base) buff self: Molotov cocktail: +3 base DMG(5 rds)
+skill 3: Heart to Heart: ●●●○stress -5,clean horror,buff self: this cup on me: +2 base healing done(5 rds)
+skill 4: on bartending mode: Time to Drink: ●●●● change to serving mode
+onserving mode: Prepare Drinks:change to bartending mod: Molotov Cocktail ＆ This Cup on Me: refreshes uses time,colddown:3 rds
+skill 5: This Cup on Me: ●●●○ 2 uses per battles heal 1~1
+skill 6: Molotov Cocktail: range ●●●○X○●●● 2 uses per battles,105 ACC CRT modified: +7%,shuffle (140% base),+4 torch light
+skill 7: Bloody Mary: ●●●● 0 uses per battles,buff target: +7 stress +25%DMG +5SPD +5%CRT(3 rds) colddown:3 rds
+move:fwd1 back1 
+CRT buff: +3SPD
