@@ -7,7 +7,7 @@ on mode: skill set 2: Gut Punch: melee ○○●●X●●○○ DMG modified: -
 cocktail shaker: Molotov cocktail: debuff target: -20DOGE -20ACC
 skill 3: on mode: skill set 1: Vodka Barbecue: ○○●●X●-●-●○ DMG modified: -50%,CRT modified: -5%,95 ACC,+4 torch light,shuffle (140% base) 
 cocktail shaker: Molotov cocktail: +6 base DMG +5%CRT
-on mode: skill set 2: Rotten Moonshine: range ○●●○X●●●○ DMG modified: -90%，105 ACC,CRT modified:+8% debuff target: -20% PROT -20 DOGE (140% base) ,blight 3pt/rds for 2rd (140%base)
+on mode: skill set 2: Make Use of Putrefaction: range ○●●○X●●●○ DMG modified: -90%，105 ACC,CRT modified:+8% debuff target: -20% PROT -20 DOGE (140% base) ,blight 3pt/rds for 2rd (140%base)
 cocktail shaker: Molotov cocktail:additional blight 7pt/rds for 1rd (140%base)
 skill 4: on mode: skill set 1: Goes With Liquor ●●●○: heal 3pt/rds for 3 rds
 cocktail shaker: On the House: +3 healing done
