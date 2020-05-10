@@ -2,7 +2,7 @@ skill 1: on mixing mode: Serve Cocktails: ●●●● self:switch to serving mo
 on serving mode: Mix Cocktails: ●●●● self:switch to serving mode,clean all cocktail shaker's effects
 skill description:cocktail shaker has 3 capacities,each capacity can allow you add 1 cocktail shaker effect,and 1 filled capacity can allow you use 1 serving mode's skill,cocktail effects cannot been adding when cocktail shaker is full,but you can still use mixing mode's skills.You can also empty the cocktail shaker by switching back to mixing mode.
 skill 2: on mode: skill set 1: Bloody Mary melee ○○●●X●●○○ DMG modified: -25%,110 ACC,CRT modified: +12%, bleed 3pt/rds for 3rd (140%base)
-cocktail shaker: On the House: buff target: +25% DMG +5% CRT,debuff target: +20% DMG received
+cocktail shaker: On the House: buff target: +25% DMG +5% CRT,debuff target: +20% DMG received,get crimson curse if any bloodsucker monster alive
 on mode: skill set 2: Gut Punch: melee ○○●●X●●○○ DMG modified: -50%,110 ACC,CRT modified: +8%, stun (140%base)
 cocktail shaker: Molotov cocktail: debuff target: -20DOGE -20ACC
 skill 3: on mode: skill set 1: Wine Barbecue: ○○●●X●-●-●○ DMG modified: -50%,CRT modified: -5%,95 ACC,+4 torch light,shuffle (140% base) 
