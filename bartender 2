@@ -5,7 +5,7 @@ skill 2: on mode: skill set 1: Bloody Mary melee ○○●●X●●○○ DMG m
 cocktail shaker: On the House: buff target: +25% DMG +5% CRT,debuff target: +20% DMG received,get crimson curse if any bloodsucker monster alive (20% chance)
 on mode: skill set 2: Gut Punch: melee ○○●●X●●○○ DMG modified: -50%,110 ACC,CRT modified: +8%, stun (140%base)
 cocktail shaker: Molotov cocktail: debuff target: -20DOGE -20ACC
-skill 3: on mode: skill set 1: Wine Barbecue: ○○●●X●-●-●○ DMG modified: -50%,CRT modified: -5%,95 ACC,+4 torch light,shuffle (140% base) 
+skill 3: on mode: skill set 1: Liquor Barbecue: ○○●●X●-●-●○ DMG modified: -50%,CRT modified: -5%,95 ACC,+4 torch light,shuffle (140% base) 
 cocktail shaker: Molotov cocktail: +6 base DMG +5%CRT
 on mode: skill set 2: Sour Wine: range ○●●○X●●●○ DMG modified: -90%，105 ACC,CRT modified:+8% debuff target: -20% PROT -20 DOGE (140% base) ,blight 3pt/rds for 2rd (140%base)
 cocktail shaker: Molotov cocktail:additional blight 7pt/rds for 1rd (140%base)
