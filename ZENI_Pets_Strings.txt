@@ -1,0 +1,14 @@
+	<!--- Zeni PETS Strings--->
+	<entry id="str_inventory_set_title_zenith_conflicting"><![CDATA[{colour_start|pet_a}“矛盾本性”{colour_end}]]></entry>
+	
+	<entry id="buff_rule_data_tooltip_js2_skill_1"><![CDATA[屠魔矛舞]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_ZENI_pet_tooltip_A_buff_pass"><![CDATA[{colour_start|notable}外骨骼：{colour_end}+10{colour_start|notable}防御{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_ZENI_pet_tooltip_B_buff_pass"><![CDATA[{colour_start|mark}毒刺：{colour_end}+10%%精准 对{colour_start|mark}标记{colour_end}]]></entry>
+		<entry id="buff_stat_tooltip_upgrade_discount_ZENI_pet_tooltip_C_buff_pass"><![CDATA[{colour_start|debuff}伺机捕手：{colour_end}{colour_start|zenith_gold}屠魔矛舞：{colour_end}获得概率{colour_start|bleed}流血{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_ZENI_pet_tooltip_D_buff_pass"><![CDATA[{colour_start|scouting}液化掠食：{colour_end}击杀时：{colour_start|buff}增益自身：{colour_end}+10%%伤害和+3暴击]]></entry>
+	
+		<entry id="buff_stat_tooltip_upgrade_discount_ZENI_pet_tooltip_E_buff_pass"><![CDATA[{colour_start|stress}家鼠：{colour_end}+20%%{colour_start|stress}压力治疗{colour_end} 如果亮度高于80]]></entry>
+		<entry id="buff_stat_tooltip_upgrade_discount_ZENI_pet_tooltip_F_buff_pass"><![CDATA[{colour_start|debuff}难以捕捉：{colour_end}+5{colour_start|debuff}闪避{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_ZENI_pet_tooltip_G_buff_pass"><![CDATA[{colour_start|scouting}环境适应：{colour_end} {colour_start|zenith_gold}逞强侵染：{colour_end}获得1回合{colour_start|guard}守护队伍{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_ZENI_pet_tooltip_H_buff_pass"><![CDATA[（仅守护天顶背后的英雄）]]></entry>
+		<entry id="buff_stat_tooltip_upgrade_discount_ZENI_pet_tooltip_I_buff_pass"><![CDATA[{colour_start|move}敏锐听觉：{colour_end}攻击未中：+5{colour_start|move}精准{colour_end}（2回合）]]></entry>
